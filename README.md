@@ -21,9 +21,9 @@ Download Etcher, select the ISO file, flash it to your USB drive.
 ### 3. Reboot and run checkra1n
 Reboot your computer and enter your BIOS's boot menu.
 
-- Select the flash drive, and it should boot into the login prompt.
-- Log in as `anon`, with password `voidlinux`.
-- At the `$` prompt, enter `sudo checkra1n`.
+- Select the flash drive, and it should boot into the login prompt
+- Log in as `anon`, with password `voidlinux`
+- At the `$` prompt, enter `sudo checkra1n`
 
 ![Prompt](https://i.imgur.com/MmqUBUJ.png)
 
