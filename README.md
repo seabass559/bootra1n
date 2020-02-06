@@ -31,3 +31,8 @@ Happy jailbreaking!
 
 ## Troubleshooting
 *Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.
+
+## Credits
+- Base OS - [Void Linux Team](https://voidlinux.org/)
+- Build - Foxlet ([@FoxletFox](https://twitter.com/foxletfox))
+- Concept - Evan ([@evanhackerman](https://twitter.com/evanhackerman))
