@@ -6,7 +6,7 @@ You will need:
 - An USB flash drive (at least 512MB or larger)
 - 64-bit AMD or Intel PC
 
-You do not need to intall additional software or an OS.
+You do not need to install additional software or an OS.
 
 ## Download bootra1n
 - [bootra1n LiveCD (393 MB)](https://drive.google.com/uc?id=1QCEfjJlXcVY5QL7SqeJ1ZiRAnHhUJYU7&export=download)
